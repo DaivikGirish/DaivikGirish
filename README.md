@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Daivik Girish — building smart systems from hardware to the cloud
+# Hi, I’m Daivik Girish — building smart systems from hardware to the cloud
 
 🎓 M.S. in Computer Engineering @ New Jersey Institute of Technology (Class of 2025)  
-🔧 Embedded Systems • Full-Stack Web Dev • IoT Engineer • ML Enthusiast  
+🔧 Systems Engineer • Embedded Systems • Full-Stack Web Dev • IoT Engineer • ML Enthusiast  
 📍 Based in Newark, NJ — open to global opportunities  
 📬 Reach me at [LinkedIn](https://www.linkedin.com/in/daivik-girish-709ab7185/) | daivikgirish98@gmail.com
 
@@ -9,32 +9,31 @@ I enjoy bridging the physical and digital world — from microcontrollers and se
 
 ---
 
-## 🧰 Tech Toolkit That Powers My Work
+##  Tech Toolkit That Powers My Work
 
-### 🔌 Embedded Systems & IoT
+###  Embedded Systems & IoT
 STM32 (F4 Series) • Embedded C • CMSIS-DSP • Real-Time Processing • Interrupts • DMA • ADC • USART • I2C • SPI • GPIO • ESP8266 • Raspberry Pi • MAX9814 • DHT22 • Signal Acquisition • Edge Optimization • Low-Latency Design • Power-Efficient Systems
 
-### 🌐 Full-Stack & Web Development
+###  Full-Stack & Web Development
 JavaScript • Java • Python • C • C++ • Flask • React.js • Node.js • HTML/CSS • SAP UI5 • SAP Fiori • SAP BTP (CAPM/XSUAA/Launchpad) • RESTful APIs • Agile Sprint Delivery • Responsive Design
 
-### 🧠 Machine Learning & Signal Intelligence
-PyTorch • Scikit-learn • Genetic Algorithms • FIR/IIR Filters • Computer Vision • A/B Testing  
-CMSIS-DSP Optimization • Signal Processing • Computational Intelligence • Time-Series Classification
+###  Machine Learning & Signal Intelligence
+PyTorch • Scikit-learn • Genetic Algorithms • FIR/IIR Filters • Computer Vision • A/B Testing • CMSIS-DSP Optimization • Signal Processing • Computational Intelligence • Time-Series Classification
 
-### ☁️ Cloud Platforms & Integration
+###  Cloud Platforms & Integration
 AWS • Google Cloud Platform (GCP) • Firebase • SAP BTP • Cloud Sync • MQTT/WiFi Protocols • USB/Serial Communication • Data Logging • Remote Monitoring
 
-### 🧪 Databases & Data Engineering
+###  Databases & Data Engineering
 MongoDB • MySQL • PostgreSQL • SQLite • SAP HANA DB • ETL Pipelines • Query Optimization • Data Modeling • Real-Time Data Capture • API-based Integration
 
-### 🧰 DevOps, Testing & Collaboration
+###  DevOps, Testing & Collaboration
 Git • GitHub • Jenkins • Jira • Postman • ST-Link • Logic Analyzers • CI/CD • Unit Testing • Regression Testing • Debugging • Agile Development • Documentation & Knowledge Transfer
 
 ---
 
 ## 💼 Professional Experience
 
-### 🟢 Infosys — Senior Systems Engineer  
+###  Infosys — Senior Systems Engineer  
 📅 May 2021 – Nov 2023  
 📍 India  
 - Led the end-to-end development of 3+ SAP CAPM applications using SAP Fiori, SAP UI5, JavaScript, and Java, improving user productivity by 20%.  
@@ -43,7 +42,7 @@ Git • GitHub • Jenkins • Jira • Postman • ST-Link • Logic Analyzers 
 - Resolved 30+ critical bugs, contributing to stability, scalability, and maintainability of enterprise apps.  
 - Practiced Agile methodology and collaborated across dev/QA using GitHub, Jira, Jenkins, and Postman.
 
-### 🟡 Knowx Innovations Pvt. Ltd. — Embedded Systems Intern  
+###  Knowx Innovations Pvt. Ltd. — Embedded Systems Intern  
 📅 July 2019 – Aug 2019  
 📍 Bangalore, India  
 - Developed a scalable IoT home automation system using Raspberry Pi, Python, and sensors with cloud sync via GCP and Firebase.  
@@ -53,7 +52,7 @@ Git • GitHub • Jenkins • Jira • Postman • ST-Link • Logic Analyzers 
 
 ---
 
-## 🧪 Featured Projects
+##  Featured Projects
 
 ### 🔹 [IoT Temperature & Humidity Monitoring System](https://github.com/DaivikGirish/IoT-Temp-Humidity)  
 **Stack:** STM32 • ESP8266 • Arduino • Flask • React • MongoDB • AWS  
